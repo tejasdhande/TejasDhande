@@ -70,5 +70,5 @@
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-linkedin-profile
+- GitHub:  https://github.com/tejasdhande
+- LinkedIn: https://www.linkedin.com/in/tejas-dhande-592429192/
