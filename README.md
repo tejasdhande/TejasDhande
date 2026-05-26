@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Tejas 👨‍💻
 
-🔹 QA Engineer with **4+ years of experience** in Manual and Automation Testing  
+🔹 QA Engineer with **5+ years of experience** in Manual and Automation Testing  
 🔹 Strong expertise in **Java, Selenium, TestNG, API Testing**, and **Framework Development**  
 🔹 Experienced in testing **enterprise web applications** in Agile environments  
 🔹 Focused on delivering **high-quality, stable, and release-ready products**
